@@ -1,4 +1,4 @@
-# Demo Terraform module
+# Demo Terraform modules
 
 This is a demo Terraform module that can be used to create a demo infrastructure.
 
